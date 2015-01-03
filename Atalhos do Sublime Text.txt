@@ -1,0 +1,14 @@
+SNIPPETS : SÃO BLOCOS DE CÓDIGOS PRONTOS QUE IRA REALIZAR ALGUMA FUNCIONALIDADE.
+		
+
+
+SNIPPETS :
+	
+	criar a sintaxe do html =  	html + tab
+	link = a + tab
+	tabela = tab + tab
+	colunas = td + tab
+	linhas =  tr + tab
+	div = div + tab
+	texto ficticio = lorem + tab
+	
