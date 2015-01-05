@@ -1,0 +1,59 @@
+ 
+ /* COMENTÁRIOS
+ Temos os seletores  : 
+       universal *
+       elementos = tegs
+       classe 
+       ID
+ 
+*/
+	
+ /* Seletor universal é para realizar  modificação  em todo o site */ 
+
+*{
+	 
+	color: #26F226; <! -- Determina que todas as cores serão verdes  --> 
+	font-size: 10px;	<! -- Determina que todas as margens terão 10px  --> 
+}
+
+
+/* Seletor teg ou elemento = modifica os elementos HTML */
+
+h1{
+   color: #EE1242; <! -- Determina que todas as cores serão vermelhas  -->
+   font-size:16px;
+}
+
+
+/* Seletor do tipo class  */
+
+.texto {
+	color: #E4F710; <! -- Determina que todas as cores serão Amarelo  -->
+	font-size:14px;
+	font-femily:cambria, "Liberation Serif", Times, "Times new Roman";
+
+}
+
+/* Seletor do tipo ID  */
+
+#texto {
+	color: #164EDA; <! -- Determina que todas as cores serão azuis  -->
+	font-size:14px;
+	font-femily:cambria, "Liberation Serif", Times, "Times new Roman";
+
+}
+
+
+/*Quando usar CLASSES e ID  */
+
+/* 
+
+Quuando queremos reutilizar uma formatação 
+em varias paginas utilizamos uma classe
+
+o ID Quando utilizamos em poucos elementos
+
+
+ */
+
+
