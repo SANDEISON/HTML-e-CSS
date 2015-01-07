@@ -1,0 +1,16 @@
+#container{
+
+	width: 400px;
+	height: 250;
+	background: #4c798A;
+	color: #FFF;
+
+
+	position: fixed; /* Definição da Posição : fixed, relative, absolute,   */
+		top: 100px;
+		left: 100px;
+		/*right: 0;
+		bottom: 0;
+		*/
+
+}

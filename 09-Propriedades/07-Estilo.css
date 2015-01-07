@@ -1,0 +1,19 @@
+#container{
+
+	width: 200px;
+	height: 150;
+	background: #4c798A;
+	color: #FFF;
+	float: left;
+	margin-right: 15px;
+
+
+}
+
+.textoNaoFlutua {
+
+
+	clear: both;
+
+
+}
